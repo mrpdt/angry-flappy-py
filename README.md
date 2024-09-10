@@ -8,7 +8,7 @@ Pipe Obstacles: Randomly positioned pipes that increase the challenge.
 Score Tracking: Your score increases the longer you survive.
 Game Over Screen: A "Game Over" message is displayed when you collide with a pipe or hit the ground.
 Easy to Customize: Resize the bird and pipe images, tweak gravity, or change the game speed for different difficulty levels.
-
+ 
 Controls:
 
 Press the spacebar to flap and navigate through the pipes.
@@ -18,6 +18,7 @@ Requirements:
 
 Python 3.x
 Pygame library
+You have to put your own pipe.png that is obstacle and bird.png as player
 
 How to Run:
 
