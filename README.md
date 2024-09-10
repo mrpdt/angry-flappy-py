@@ -22,9 +22,11 @@ Pygame library
 How to Run:
 
 Clone the repository.
-Install the dependencies:     
+Install the dependencies: 
+
     pip install pygame.
-Run the script:         
+Run the script:
+
     python flappy_bird.py.
 
 Enjoy the game, and feel free to modify it to add your own features!
