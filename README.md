@@ -22,6 +22,9 @@ Pygame library
 How to Run:
 
 Clone the repository.
+
+    https://github.com/mrpdt/angry-flappy-py/
+
 Install the dependencies: 
 
     pip install pygame.
