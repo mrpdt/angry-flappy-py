@@ -17,7 +17,9 @@ The game restarts automatically when you press the spacebar after a "Game Over."
 Requirements:
 
 Python 3.x
+
 Pygame library
+
 You have to put your own pipe.png that is obstacle and bird.png as player
 
 How to Run:
